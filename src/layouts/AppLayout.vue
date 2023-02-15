@@ -17,7 +17,7 @@
   </q-layout>
 </template>
 
-<script>asdf
+<script>
 import router from 'src/router';
 import { defineComponent, ref } from 'vue'
 
