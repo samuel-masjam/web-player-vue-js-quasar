@@ -26,7 +26,7 @@ export default {
   setup() {
     if(window.location.pathname.contains($router.access_token)) {
       router.push({name: homePade, path: '/app'})
-    }
+    }  asdfasdf
   }
 }
 </script>
